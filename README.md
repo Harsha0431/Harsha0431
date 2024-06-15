@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SSD Impex](https://ssddevelopment.netlify.app)
 
-- 🌱 I’m currently learning *ASP.NET, Angular and Spring Boot*
+- 🌱 I’m currently learning *Java EE and Spring Boot*
 
 - 👨‍💻 All of my projects are available at [https://meetharsha.vercel.app](https://meetharsha.vercel.app)
 
