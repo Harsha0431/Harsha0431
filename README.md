@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Java EE and Spring Boot*
 
-- 👨‍💻 All of my projects are available at [https://meetharsha.vercel.app](https://meetharsha.netlify.app)
+- 👨‍💻 All of my projects are available at [https://meetharsha.netlify.app](https://meetharsha.netlify.app)
 
 - 💬 Ask me about *react, vue.js, tailwind CSS, express.js and django*
 
