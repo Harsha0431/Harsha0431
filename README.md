@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [SSD Impex](https://ssddevelopment.netlify.app)
 
-- 🌱 I’m currently learning **Enterprise Java and Spring Boot**
+- 🌱 I’m currently learning **Deep Learning and AI**
 
 - 👨‍💻 All of my projects are available at [https://meetharsha.netlify.app](https://meetharsha.netlify.app)
 
-- 💬 Ask me about **Vue.js, React, Express.js and Django**
+- 💬 Ask me about **Vue.js, React, Express.js, Django and Spring Boot**
 
 - 📫 How to reach me **harshapolamarasetty6174@gmail.com**
 
