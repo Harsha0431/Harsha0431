@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SSD Impex](https://ssddevelopment.netlify.app)
 
-- 🌱 I’m currently learning **Deep Learning and AI**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://meetharsha.netlify.app](https://meetharsha.netlify.app)
 
