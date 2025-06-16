@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha0431" alt="harsha0431" /></a> </p>
  
-- 🔭 I’m currently working on [SSD Impex](http://ss-designs.in/)
+- I’m currently working on 🗓️ **Daily Shelf – a habit-building and productivity app** built with _React Native, TypeScript, Tailwind-inspired styling, and Appwrite (BaaS)_. It includes features like streak tracking, reminders, simple text notes, and daily habit insights.
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning and React Native**
 
 - 👨‍💻 All of my projects are available at [https://meetharsha.netlify.app](https://meetharsha.netlify.app)
 
-- 💬 Ask me about **Vue.js, React, Express.js, Django and Spring Boot**
+- 💬 Ask me about **Vue.js, React.js, Express.js, Django and Spring Boot**
 
 - 📫 How to reach me **harshapolamarasetty6174@gmail.com**
 
