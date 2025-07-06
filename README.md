@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha0431&label=Profile%20views&color=0e75b6&style=flat" alt="harsha0431" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha0431" alt="harsha0431" /></a> </p>
+
+
  
 - I’m currently working on 🗓️ **Daily Shelf – a habit-building and productivity app** built with _React Native, TypeScript, Tailwind-inspired styling, and Appwrite (BaaS)_. It includes features like streak tracking, reminders, simple text notes, and daily habit insights.
 
