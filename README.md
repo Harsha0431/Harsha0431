@@ -7,7 +7,7 @@
 
 
  
-- I’m currently working on 🗓️ **Daily Shelf – a habit-building and productivity app** built with _React Native, TypeScript, Tailwind-inspired styling, and AppWrite (BaaS)_. It includes features like streak tracking, reminders, simple text notes, and daily habit insights.
+- I’m currently working on 🗓️ **Daily Shelf – a habit-building and productivity app** built with **_React Native, TypeScript, Tailwind-inspired styling, and AppWrite (BaaS)_**. It includes features like streak tracking, reminders, simple text notes, and daily habit insights.
 
 - 🌱 I’m currently learning **Deep Learning and React Native**
 
