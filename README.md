@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Vue.js, React.js, Express.js, Django, and Spring Boot**
 
-- 📫 How to reach me **harshapolamarasetty6174@gmail.com**
+- 📫 How to reach me **harshav.polamarasetty@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
